@@ -15,11 +15,8 @@ function content() {
                     <div id='links'>
                         <h4> Fall 2023 CS 61A TA </h4>
                         <p>
-                            {/* <a className='link' target='_blank' rel='noreferrer' href=''>
-                                Lab Attendance
-                            </a> <br /> */}
-                            <a className='link' target='_blank' rel='noreferrer' href='https://forms.gle/qL8pNBAX3Fv3icem9'>
-                                Discussion Attendance
+                            <a className='link' target='_blank' rel='noreferrer' href='https://forms.gle/Qi7Bh2bHtVVgCPdv6'>
+                                Welcome Survey
                             </a> <br />
                             <a className='link' target='_blank' rel='noreferrer' href='https://forms.gle/1ooPWtGYacox3uS57'>
                                 Anonymous Feedback
@@ -53,11 +50,11 @@ function content() {
                         <div className='disc-row'>
                             <div className='ind-disc-container'>
                                 <p> Discussion 00 </p>
-                                <a className='button' target='_blank' rel='noreferrer noopener' href=''>
-                                    [coming soon]
+                                <a className='button' target='_blank' rel='noreferrer noopener' href='https://docs.google.com/presentation/d/1ZDzKBAi6ZZJzwxelq-ugCO1n6zB0whUVbmq-PHkW_JY/edit?usp=sharing'>
+                                    Slides
                                 </a>
-                                <a className='button' target='_blank' rel='noreferrer noopener' href=''>
-                                    [coming soon]
+                                <a className='button' target='_blank' rel='noreferrer noopener' href='https://cs61a.org/disc/disc00/'>
+                                    Worksheet
                                 </a>
                             </div>
 
