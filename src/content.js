@@ -49,22 +49,22 @@ function content() {
                     <div className='disc-container'>
                         <div className='disc-row'>
                             <div className='ind-disc-container'>
-                                <p> Discussion 00 </p>
-                                <a className='button' target='_blank' rel='noreferrer noopener' href='https://docs.google.com/presentation/d/1ZDzKBAi6ZZJzwxelq-ugCO1n6zB0whUVbmq-PHkW_JY/edit?usp=sharing'>
-                                    Slides
+                                <p> Week 1 </p>
+                                <a className='button' target='_blank' rel='noreferrer noopener' href=''>
+                                    no lab slides
                                 </a>
-                                <a className='button' target='_blank' rel='noreferrer noopener' href='https://cs61a.org/disc/disc00/'>
-                                    Worksheet
+                                <a className='button' target='_blank' rel='noreferrer noopener' href='https://docs.google.com/presentation/d/1ZDzKBAi6ZZJzwxelq-ugCO1n6zB0whUVbmq-PHkW_JY/edit?usp=sharing'>
+                                    disc00 slides
                                 </a>
                             </div>
 
                             <div className='ind-disc-container'>
-                                <p> Discussion 01 </p>
-                                <a className='button' target='_blank' rel='noreferrer noopener' href=''>
-                                    [coming soon]
+                                <p> Week 2 </p>
+                                <a className='button' target='_blank' rel='noreferrer noopener' href='https://docs.google.com/presentation/d/1t6o7e-551yJGlygzLKTsoPrOJMbayxRARVMYN-CRZ7g/edit?usp=sharing'>
+                                    lab01 slides
                                 </a>
                                 <a className='button' target='_blank' rel='noreferrer noopener' href=''>
-                                    [coming soon]
+                                    [disc coming soon]
                                 </a>
                             </div>
 
