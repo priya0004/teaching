@@ -58,6 +58,16 @@ function content() {
                                 </a>
                             </div>
 
+                            <div className='ind-disc-container'>
+                                <p> Discussion 01 </p>
+                                <a className='button' target='_blank' rel='noreferrer noopener' href=''>
+                                    [coming soon]
+                                </a>
+                                <a className='button' target='_blank' rel='noreferrer noopener' href=''>
+                                    [coming soon]
+                                </a>
+                            </div>
+
                         </div>
 
                     </div>
