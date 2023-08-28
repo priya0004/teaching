@@ -15,8 +15,8 @@ function content() {
                     <div id='links'>
                         <h4> Fall 2023 CS 61A TA </h4>
                         <p>
-                            <a className='link' target='_blank' rel='noreferrer' href='https://forms.gle/Qi7Bh2bHtVVgCPdv6'>
-                                Welcome Survey
+                            <a className='link' target='_blank' rel='noreferrer' href='https://forms.gle/JRnVKTHbgtu1E9448'>
+                                Lab/Disc Attendance
                             </a> <br />
                             <a className='link' target='_blank' rel='noreferrer' href='https://forms.gle/1ooPWtGYacox3uS57'>
                                 Anonymous Feedback
