@@ -63,8 +63,8 @@ function content() {
                                 <a className='button' target='_blank' rel='noreferrer noopener' href='https://docs.google.com/presentation/d/1t6o7e-551yJGlygzLKTsoPrOJMbayxRARVMYN-CRZ7g/edit?usp=sharing'>
                                     lab01 slides
                                 </a>
-                                <a className='button' target='_blank' rel='noreferrer noopener' href=''>
-                                    [disc coming soon]
+                                <a className='button' target='_blank' rel='noreferrer noopener' href='https://docs.google.com/presentation/d/1i9hGSstPZVMYISComwLTeedIOfj1OC6_oFSpWNNWp3Q/edit?usp=sharing'>
+                                    disc01 slides
                                 </a>
                             </div>
 
