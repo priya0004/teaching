@@ -70,6 +70,20 @@ function content() {
 
                         </div>
 
+                        <div className='disc-row'>
+                            <div className='ind-disc-container'>
+                                <p> Week 3 </p>
+                                <a className='button' target='_blank' rel='noreferrer noopener' href=''>
+                                    no lab slides
+                                </a>
+                                <a className='button' target='_blank' rel='noreferrer noopener' href='https://docs.google.com/presentation/d/1qYIHcKU9gI8Ixu8GTw54a9uNNSu3908RtguZmECJT1U/edit?usp=sharing'>
+                                    disc02 slides
+                                </a>
+                            </div>
+
+
+                        </div>
+
                     </div>
 
                 </div>
