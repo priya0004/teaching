@@ -51,7 +51,7 @@ function content() {
                             <div className='ind-disc-container'>
                                 <p> Week 1 </p>
                                 <a className='button' target='_blank' rel='noreferrer noopener' href=''>
-                                    no lab slides
+                                    no lab
                                 </a>
                                 <a className='button' target='_blank' rel='noreferrer noopener' href='https://docs.google.com/presentation/d/1ZDzKBAi6ZZJzwxelq-ugCO1n6zB0whUVbmq-PHkW_JY/edit?usp=sharing'>
                                     disc00 slides
@@ -74,10 +74,20 @@ function content() {
                             <div className='ind-disc-container'>
                                 <p> Week 3 </p>
                                 <a className='button' target='_blank' rel='noreferrer noopener' href=''>
-                                    no lab slides
+                                    no lab
                                 </a>
                                 <a className='button' target='_blank' rel='noreferrer noopener' href='https://docs.google.com/presentation/d/1qYIHcKU9gI8Ixu8GTw54a9uNNSu3908RtguZmECJT1U/edit?usp=sharing'>
                                     disc02 slides
+                                </a>
+                            </div>
+
+                            <div className='ind-disc-container'>
+                                <p> Week 4 </p>
+                                <a className='button' target='_blank' rel='noreferrer noopener' href=''>
+                                    no lab
+                                </a>
+                                <a className='button' target='_blank' rel='noreferrer noopener' href='https://docs.google.com/presentation/d/1pq_Y2YHn2vILolNSi4FTODHtazPB_4ja3QwNQp9Cc0s/edit?usp=sharing'>
+                                    disc03 slides
                                 </a>
                             </div>
 
