@@ -16,10 +16,13 @@ function content() {
                         <h4> Fall 2023 CS 61A TA </h4>
                         <p>
                             <a className='link' target='_blank' rel='noreferrer' href='https://forms.gle/JRnVKTHbgtu1E9448'>
-                                Lab/Disc Attendance
+                                &#128204; Lab/Disc Attendance
                             </a> <br />
                             <a className='link' target='_blank' rel='noreferrer' href='https://forms.gle/1ooPWtGYacox3uS57'>
-                                Anonymous Feedback
+                                &#128394; Anonymous Feedback
+                            </a> <br />
+                            <a className='link' target='_blank' rel='noreferrer' href='https://open.spotify.com/playlist/12LD0ZtmMNj9h0SgDG1Gjn?si=72c8640e501e48ce'>
+                                &#127911; Spotify Playlist
                             </a>
                         </p>
                     </div>
@@ -42,7 +45,7 @@ function content() {
                 <div id='content' className='col-lg-7 col-xl-7'>
 
                     <div className='announcements-container'>
-                        <p id='announce'> hi! welcome to 61a &#x1F973; </p>
+                        <p id='announce'> &#129395; Congrats on finishing Midterm 1! &#129395; </p>
                     </div>
                     <br />
                     
@@ -74,7 +77,7 @@ function content() {
                             <div className='ind-disc-container'>
                                 <p> Week 3 </p>
                                 <a className='button' target='_blank' rel='noreferrer noopener' href=''>
-                                    no lab
+                                    no lab slides
                                 </a>
                                 <a className='button' target='_blank' rel='noreferrer noopener' href='https://docs.google.com/presentation/d/1qYIHcKU9gI8Ixu8GTw54a9uNNSu3908RtguZmECJT1U/edit?usp=sharing'>
                                     disc02 slides
