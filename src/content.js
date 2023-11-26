@@ -45,7 +45,7 @@ function content() {
                 <div id='content' className='col-lg-7 col-xl-7'>
 
                     <div className='announcements-container'>
-                        <p id='announce'> &#129395; Congrats on finishing Midterm 1! &#129395; </p>
+                        <p id='announce'> &#129395; Final Week of Instruction! &#129395; </p>
                     </div>
                     <br />
                     
@@ -103,6 +103,98 @@ function content() {
                                 </a>
                                 <a className='button' target='_blank' rel='noreferrer noopener' href='https://docs.google.com/presentation/d/1UC58cjLy3zWduMESComW0P0drM_vfaaZkUajhkqCQSo/edit?usp=sharing'>
                                     disc04 slides
+                                </a>
+                            </div>
+
+                            <div className='ind-disc-container'>
+                                <p> Week 6 </p>
+                                <a className='button' target='_blank' rel='noreferrer noopener' href='https://docs.google.com/presentation/d/1hfGdq3PomYzolco98zQLjRK_aLWj616c8BYV-13AUmw/edit?usp=sharing'>
+                                    reference slides
+                                </a>
+                            </div>
+                        </div>
+
+                        <div className='disc-row'>
+                            <div className='ind-disc-container'>
+                                <p> Week 7 </p>
+                                <a className='button' target='_blank' rel='noreferrer noopener' href='https://docs.google.com/presentation/d/1GqZypaVnpwj8fDvtKtmU6rXflfDRNZLHa5xR_uYLEDQ/edit?usp=sharing'>
+                                    reference slides
+                                </a>
+                            </div>
+
+                            <div className='ind-disc-container'>
+                                <p> Week 8 </p>
+                                <a className='button' target='_blank' rel='noreferrer noopener' href='https://cs61a.org/lab/lab07/'>
+                                    lab07
+                                </a>
+                                <a className='button' target='_blank' rel='noreferrer noopener' href='https://cs61a.org/disc/disc07/'>
+                                    disc07
+                                </a>
+                            </div>
+                        </div>
+
+                        <div className='disc-row'>
+                            <div className='ind-disc-container'>
+                                <p> Week 9 </p>
+                                <a className='button' target='_blank' rel='noreferrer noopener' href='https://cs61a.org/lab/lab08/'>
+                                    lab08
+                                </a>
+                                <a className='button' target='_blank' rel='noreferrer noopener' href='https://cs61a.org/disc/disc08/'>
+                                    disc08
+                                </a>
+                            </div>
+
+                            <div className='ind-disc-container'>
+                                <p> Week 10 - Midterm 2 </p>
+                                <a className='button' target='_blank' rel='noreferrer noopener' href='https://docs.google.com/presentation/d/1g_4YFTQRlsa6UvAjFUKv9FPDPQLtUw6Ggldn1gYo8M4/edit?usp=sharing'>
+                                    content reminders
+                                </a>
+                                <a className='button' target='_blank' rel='noreferrer noopener' href='https://docs.google.com/document/d/1WA0BF9DjN6DpEh-FHuuBKKWaRCUJEN-OTbpWkEjAfHw/edit?usp=sharing'>
+                                    exam advice
+                                </a>
+                            </div>
+                        </div>
+
+                        <div className='disc-row'>
+                            <div className='ind-disc-container'>
+                                <p> Week 11 </p>
+                                <a className='button' target='_blank' rel='noreferrer noopener' href='https://cs61a.org/lab/lab10/'>
+                                    lab10
+                                </a>
+                                <a className='button' target='_blank' rel='noreferrer noopener' href='https://cs61a.org/disc/disc10/'>
+                                    disc10
+                                </a>
+                            </div>
+
+                            <div className='ind-disc-container'>
+                                <p> Week 12 </p>
+                                <a className='button' target='_blank' rel='noreferrer noopener' href='https://cs61a.org/lab/lab11/'>
+                                    lab11
+                                </a>
+                                <a className='button' target='_blank' rel='noreferrer noopener' href='https://cs61a.org/disc/disc11/'>
+                                    disc11
+                                </a>
+                            </div>
+                        </div>
+
+                        <div className='disc-row'>
+                            <div className='ind-disc-container'>
+                                <p> Week 13 </p>
+                                <a className='button' target='_blank' rel='noreferrer noopener' href='https://cs61a.org/lab/lab12/'>
+                                    lab12
+                                </a>
+                                <a className='button' target='_blank' rel='noreferrer noopener' href='https://cs61a.org/disc/disc12/'>
+                                    disc12
+                                </a>
+                            </div>
+
+                            <div className='ind-disc-container'>
+                                <p> Week 15 </p>
+                                <a className='button' target='_blank' rel='noreferrer noopener' href='https://cs61a.org/lab/lab13/'>
+                                    lab13
+                                </a>
+                                <a className='button' target='_blank' rel='noreferrer noopener' href='https://cs61a.org/disc/disc13/'>
+                                    disc13
                                 </a>
                             </div>
                         </div>
