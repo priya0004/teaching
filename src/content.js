@@ -29,6 +29,13 @@ function content() {
                             TBD
                         </p>
                     </div>
+
+                    <div id='section'>
+                        <h3> Past Website </h3>
+                        <p>
+                            Fall 2023
+                        </p>
+                    </div>
                 </div>
     
                 <div id='content' className='col-lg-7 col-xl-7'>
