@@ -21,7 +21,9 @@ function content() {
                             <a className='link' target='_blank' rel='noreferrer' href='https://forms.gle/6XQE4BFZ5eefoV2k6'>
                                 &#128394; Anonymous Feedback
                             </a> <br />
-                            &#127911; Spotify Playlist
+                            <a className='link' target='_blank' rel='noreferrer' href='https://open.spotify.com/playlist/12LD0ZtmMNj9h0SgDG1Gjn?si=eb7181c897784b2c'>
+                                &#127911; Spotify Playlist
+                            </a>
                         </p>
                     </div>
         
@@ -52,7 +54,7 @@ function content() {
     
                 <div id='content' className='col-lg-7 col-xl-7'>
                     <div className='announcements-container'>
-                        <p id='announce'> &#129395; Welcome to 61A! &#129395; </p>
+                        <p id='announce'> &#129395; Good luck on Midterm 1! &#129395; </p>
                     </div>
                     <br />
 
@@ -64,7 +66,7 @@ function content() {
                                     disc00
                                 </a>
                                 <a className='button' target='_blank' rel='noreferrer noopener' href='https://docs.google.com/presentation/d/1QNiMeps5pwjKgE4MKHB8xd_DEnQObQIo1AFL7qojRhQ/edit?usp=sharing'>
-                                    disc00 slides [fa23]
+                                    disc00 slides
                                 </a>
                             </div>
 
@@ -74,7 +76,7 @@ function content() {
                                     disc01
                                 </a>
                                 <a className='button' target='_blank' rel='noreferrer noopener' href='https://docs.google.com/presentation/d/1MLkp8bMNOwMbYVDh4Vn2wah6KisgrBQjGC3BuMcTHjc/edit?usp=sharing'>
-                                    disc01 slides [fa23]
+                                    disc01 slides
                                 </a>
                             </div>
                         </div>
@@ -84,11 +86,11 @@ function content() {
                         <div className='disc-row'>
                             <div className='ind-disc-container'>
                                 <p> Week 3 </p>
-                                <a className='button' target='_blank' rel='noreferrer noopener' href=''>
-                                    coming soon
+                                <a className='button' target='_blank' rel='noreferrer noopener' href='https://cs61a.org/disc/disc02/'>
+                                    disc02
                                 </a>
-                                <a className='button' target='_blank' rel='noreferrer noopener' href=''>
-                                    coming soon
+                                <a className='button' target='_blank' rel='noreferrer noopener' href='https://docs.google.com/presentation/d/1aep0QA00N1KDOGNB0zDcxIcdVnWL_uJQriyg9Cs_Cl0/edit?usp=sharing'>
+                                    disc02 slides
                                 </a>
                             </div>
                         </div>
