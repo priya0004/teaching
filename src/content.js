@@ -93,6 +93,16 @@ function content() {
                                     disc02 slides
                                 </a>
                             </div>
+
+                            <div className='ind-disc-container'>
+                                <p> Week 4 </p>
+                                <a className='button' target='_blank' rel='noreferrer noopener' href='https://cs61a.org/disc/disc03/'>
+                                    disc03
+                                </a>
+                                <a className='button' target='_blank' rel='noreferrer noopener' href='https://docs.google.com/presentation/d/1vnQgn0NDV_092XRYvIrxAgcMmohg8PUD1n9lj-7Sn3c/edit?usp=sharing'>
+                                    disc03 slides
+                                </a>
+                            </div>
                         </div>
                     </div>
                     
