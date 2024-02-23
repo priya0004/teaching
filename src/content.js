@@ -66,7 +66,7 @@ function content() {
                                     disc00
                                 </a>
                                 <a className='button' target='_blank' rel='noreferrer noopener' href='https://docs.google.com/presentation/d/1QNiMeps5pwjKgE4MKHB8xd_DEnQObQIo1AFL7qojRhQ/edit?usp=sharing'>
-                                    disc00 slides
+                                    slides
                                 </a>
                             </div>
 
@@ -76,7 +76,7 @@ function content() {
                                     disc01
                                 </a>
                                 <a className='button' target='_blank' rel='noreferrer noopener' href='https://docs.google.com/presentation/d/1MLkp8bMNOwMbYVDh4Vn2wah6KisgrBQjGC3BuMcTHjc/edit?usp=sharing'>
-                                    disc01 slides
+                                    slides
                                 </a>
                             </div>
                         </div>
@@ -90,7 +90,7 @@ function content() {
                                     disc02
                                 </a>
                                 <a className='button' target='_blank' rel='noreferrer noopener' href='https://docs.google.com/presentation/d/1aep0QA00N1KDOGNB0zDcxIcdVnWL_uJQriyg9Cs_Cl0/edit?usp=sharing'>
-                                    disc02 slides
+                                    slides
                                 </a>
                             </div>
 
@@ -100,7 +100,7 @@ function content() {
                                     disc03
                                 </a>
                                 <a className='button' target='_blank' rel='noreferrer noopener' href='https://docs.google.com/presentation/d/1vnQgn0NDV_092XRYvIrxAgcMmohg8PUD1n9lj-7Sn3c/edit?usp=sharing'>
-                                    disc03 slides
+                                    slides
                                 </a>
                             </div>
                         </div>
@@ -114,7 +114,7 @@ function content() {
                                     disc04
                                 </a>
                                 <a className='button' target='_blank' rel='noreferrer noopener' href='https://docs.google.com/presentation/d/1i2QJxpHKCYcFx8NWYxCCFWu9oCW84tFyYG0o2PCtFBI/edit?usp=sharing'>
-                                    disc04 slides
+                                    slides
                                 </a>
                             </div>
 
@@ -124,7 +124,10 @@ function content() {
                                     disc05
                                 </a>
                                 <a className='button' target='_blank' rel='noreferrer noopener' href='https://docs.google.com/presentation/d/1fV2ckVPDYcCikGHLokjgwfeojRGXQX3mll8usFmdlNE/edit?usp=sharing'>
-                                    disc05 slides
+                                    slides
+                                </a>
+                                <a className='button' target='_blank' rel='noreferrer noopener' href='https://priya-teaching.notion.site/priya-teaching/disc05-trees-504dc8d037d4465c80fa9f12c2433c72'>
+                                    notion
                                 </a>
                             </div>
                         </div>
