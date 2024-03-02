@@ -143,6 +143,9 @@ function content() {
                                 <a className='button' target='_blank' rel='noreferrer noopener' href='https://docs.google.com/presentation/d/1VL_6U72FFamBQcCM9f5dNsfcmGFEndnAd5ieJpXXr8w/edit?usp=sharing'>
                                     slides
                                 </a>
+                                <a className='button' target='_blank' rel='noreferrer noopener' href='https://priya-teaching.notion.site/disc06-iterators-generators-ca54ea097a4341edae3e437982224b69?pvs=4'>
+                                    notion
+                                </a>
                             </div>
                         </div>
                     </div>
