@@ -147,6 +147,16 @@ function content() {
                                     notion
                                 </a>
                             </div>
+
+                            <div className='ind-disc-container'>
+                                <p> Week 8 </p>
+                                <a className='button' target='_blank' rel='noreferrer noopener' href='https://cs61a.org/disc/disc07/'>
+                                    disc07
+                                </a>
+                                <a className='button' target='_blank' rel='noreferrer noopener' href='https://docs.google.com/presentation/d/1EYjzvsMCg0_JIRvEhhkajDu1xgTQSB2mF6172hUfNMY/edit?usp=sharing'>
+                                    slides
+                                </a>
+                            </div>
                         </div>
                     </div>
                     
