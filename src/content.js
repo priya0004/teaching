@@ -156,6 +156,9 @@ function content() {
                                 <a className='button' target='_blank' rel='noreferrer noopener' href='https://docs.google.com/presentation/d/1EYjzvsMCg0_JIRvEhhkajDu1xgTQSB2mF6172hUfNMY/edit?usp=sharing'>
                                     slides
                                 </a>
+                                <a className='button' target='_blank' rel='noreferrer noopener' href='https://priya-teaching.notion.site/disc07-OOP-3bdaf53b9e9e4fab96328d3054f2353a?pvs=4'>
+                                    notion
+                                </a>
                             </div>
                         </div>
                     </div>
