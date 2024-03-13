@@ -37,9 +37,9 @@ function content() {
                     <div id='section'>
                         <h3> Office Hours </h3>
                         <p>
-                            Tuesday: 9-11 AM @ Warren <br />
-                            Tuesday: 7-8 PM @ Warren <br />
-                            Thursday: 9-11 AM @ Warren <br />
+                            Tuesday: 9-10 AM @ Warren <br />
+                            Tuesday: 6-8 PM @ Warren <br />
+                            Wednesday: 4-5 PM @ Warren <br />
                             Thursday: 6-8 PM @ Warren
                         </p>
                     </div>
@@ -172,6 +172,16 @@ function content() {
                                 </a>
                                 <a className='button' target='_blank' rel='noreferrer noopener' href='https://docs.google.com/presentation/d/17bF9q_UvqMiFD8Zfedtb_mMVTFOBb-ihQcMhwqACKo0/edit?usp=sharing'>
                                     slides
+                                </a>
+                            </div>
+
+                            <div className='ind-disc-container'>
+                                <p> Week 10: Midterm 2</p>
+                                <a className='button' target='_blank' rel='noreferrer noopener' href='https://docs.google.com/presentation/d/1P9yzWttS2SexabPrQ38RWhanFGTUiTtru_44f3lUoTE/edit?usp=sharing'>
+                                    content reminders 
+                                </a>
+                                <a className='button' target='_blank' rel='noreferrer noopener' href='https://docs.google.com/document/d/1WA0BF9DjN6DpEh-FHuuBKKWaRCUJEN-OTbpWkEjAfHw/edit?usp=sharing'>
+                                    exam advice
                                 </a>
                             </div>
                         </div>
