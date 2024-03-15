@@ -173,6 +173,9 @@ function content() {
                                 <a className='button' target='_blank' rel='noreferrer noopener' href='https://docs.google.com/presentation/d/17bF9q_UvqMiFD8Zfedtb_mMVTFOBb-ihQcMhwqACKo0/edit?usp=sharing'>
                                     slides
                                 </a>
+                                <a className='button' target='_blank' rel='noreferrer noopener' href='https://priya-teaching.notion.site/disc08-linked-lists-efficiency-ca5b8a11aae6480e8d29b8c1f3160fe9?pvs=4'>
+                                    notion
+                                </a>
                             </div>
 
                             <div className='ind-disc-container'>
