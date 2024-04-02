@@ -39,7 +39,7 @@ function content() {
                         <p>
                             Tuesday: 9-10 AM @ Warren <br />
                             Tuesday: 6-8 PM @ Warren <br />
-                            Wednesday: 4-5 PM @ Warren <br />
+                            {/* Wednesday: 4-5 PM @ Warren <br /> */}
                             Thursday: 6-8 PM @ Warren
                         </p>
                     </div>
@@ -54,7 +54,7 @@ function content() {
     
                 <div id='content' className='col-lg-7 col-xl-7'>
                     <div className='announcements-container'>
-                        <p id='announce'> &#129395; Good Luck on Midterm 2 &#129395; </p>
+                        <p id='announce'> &#129395; welcome back! &#129395; </p>
                     </div>
                     <br />
 
