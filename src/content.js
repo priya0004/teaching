@@ -200,6 +200,9 @@ function content() {
                                 <a className='button' target='_blank' rel='noreferrer noopener' href='https://docs.google.com/presentation/d/1qO8ffJaHO-dGumbuUgYLDCYqrG1zXGN7hV5H4A_qeDU/edit?usp=sharing'>
                                     slides
                                 </a>
+                                <a className='button' target='_blank' rel='noreferrer noopener' href='https://priya-teaching.notion.site/disc09-scheme-scheme-lists-cd5b2c888fc742a5bc8531c6ea7f8907?pvs=4'>
+                                    notion
+                                </a>
                             </div>
                         </div>
                     </div>
