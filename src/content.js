@@ -213,6 +213,9 @@ function content() {
                                 <a className='button' target='_blank' rel='noreferrer noopener' href='https://docs.google.com/presentation/d/1M5xrWltN_cddqUDMzUdyDMh-Bqx8tKHYlDETW4aNy4A/edit?usp=sharing'>
                                     slides
                                 </a>
+                                <a className='button' target='_blank' rel='noreferrer noopener' href='https://priya-teaching.notion.site/disc10-interpreters-869c5ae8912849c599e2e147721a6a20?pvs=4'>
+                                    notion
+                                </a>
                             </div>
                         </div>
                     </div>
