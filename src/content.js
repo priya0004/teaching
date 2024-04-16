@@ -54,7 +54,7 @@ function content() {
     
                 <div id='content' className='col-lg-7 col-xl-7'>
                     <div className='announcements-container'>
-                        <p id='announce'> &#129395; almost done! &#129395; </p>
+                        <p id='announce'> &#129395; one week left! &#129395; </p>
                     </div>
                     <br />
 
@@ -224,7 +224,7 @@ function content() {
                         <div className='disc-row'>
                             <div className='ind-disc-container'>
                                 <p> Week 14 </p>
-                                <a className='button' target='_blank' rel='noreferrer noopener' href='https://cs61a.org/disc/disc09/'>
+                                <a className='button' target='_blank' rel='noreferrer noopener' href='https://cs61a.org/disc/disc11/'>
                                     disc11
                                 </a>
                                 <a className='button' target='_blank' rel='noreferrer noopener' href='https://docs.google.com/presentation/d/12wgVvzdMe_kk1FnqEE3jdBuXAdgFdRFY6_dXq6T_UhQ/edit?usp=sharing'>
