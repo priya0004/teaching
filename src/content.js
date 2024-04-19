@@ -230,6 +230,9 @@ function content() {
                                 <a className='button' target='_blank' rel='noreferrer noopener' href='https://docs.google.com/presentation/d/12wgVvzdMe_kk1FnqEE3jdBuXAdgFdRFY6_dXq6T_UhQ/edit?usp=sharing'>
                                     slides
                                 </a>
+                                <a className='button' target='_blank' rel='noreferrer noopener' href='https://priya-teaching.notion.site/disc11-SQL-fa5e93418bcf41f186e08cc42385aba0?pvs=4'>
+                                    notion
+                                </a>
                             </div>
                         </div>
                     </div>
