@@ -54,7 +54,7 @@ function content() {
     
                 <div id='content' className='col-lg-7 col-xl-7'>
                     <div className='announcements-container'>
-                        <p id='announce'> &#129395; one week left! &#129395; </p>
+                        <p id='announce'> &#129395; last week! &#129395; </p>
                     </div>
                     <br />
 
@@ -232,6 +232,16 @@ function content() {
                                 </a>
                                 <a className='button' target='_blank' rel='noreferrer noopener' href='https://priya-teaching.notion.site/disc11-SQL-fa5e93418bcf41f186e08cc42385aba0?pvs=4'>
                                     notion
+                                </a>
+                            </div>
+
+                            <div className='ind-disc-container'>
+                                <p> Week 15 </p>
+                                <a className='button' target='_blank' rel='noreferrer noopener' href='https://cs61a.org/disc/disc12/'>
+                                    disc12
+                                </a>
+                                <a className='button' target='_blank' rel='noreferrer noopener' href='https://docs.google.com/presentation/d/1BCv5aV6lg0P5ttcIGqgSSHjkFCRj3N3KPRKgL22Redc/edit?usp=sharing'>
+                                    slides
                                 </a>
                             </div>
                         </div>
