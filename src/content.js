@@ -246,6 +246,20 @@ function content() {
                             </div>
                         </div>
                     </div>
+
+                    <div className='disc-container'>
+                        <div className='disc-row'>
+                            <div className='ind-disc-container'>
+                                <p> Week 16: RRR </p>
+                                <a className='button' target='_blank' rel='noreferrer noopener' href='https://docs.google.com/presentation/d/1s8MAF1NiIRqZfy_vRL27fCynH_ahw-PGgKNiXZf_EDY/edit?usp=sharing'>
+                                    content reminders 
+                                </a>
+                                <a className='button' target='_blank' rel='noreferrer noopener' href='https://docs.google.com/document/d/1WA0BF9DjN6DpEh-FHuuBKKWaRCUJEN-OTbpWkEjAfHw/edit?usp=sharing'>
+                                    exam advice
+                                </a>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
     </div>
