@@ -54,12 +54,12 @@ function content() {
                     <div className='disc-container'>
                         <div className='disc-row'>
                             <div className='ind-disc-container'>
-                                <p> Week 1 </p>
-                                <a className='button' target='_blank' rel='noreferrer noopener' href>
-                                    coming soon!
+                                <p> Week 1: Welcome </p>
+                                <a className='button' target='_blank' rel='noreferrer noopener' href='https://cs61a.org/disc/disc00/'>
+                                    disc00
                                 </a>
-                                <a className='button' target='_blank' rel='noreferrer noopener' href>
-                                    coming soon!
+                                <a className='button' target='_blank' rel='noreferrer noopener' href='https://docs.google.com/presentation/d/1M0qR7j-1gC6r6LDaAmia9hqDJKw2dqOfOl6pRFCjAAc/edit?usp=sharing'>
+                                    slides
                                 </a>
                             </div>
                         </div>
