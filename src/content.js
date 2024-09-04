@@ -62,6 +62,15 @@ function content() {
                                     slides
                                 </a>
                             </div>
+                            <div className='ind-disc-container'>
+                                <p> Week 2: Control, Environment Diagrams </p>
+                                <a className='button' target='_blank' rel='noreferrer noopener' href='https://cs61a.org/disc/disc01/'>
+                                    disc01
+                                </a>
+                                <a className='button' target='_blank' rel='noreferrer noopener' href='https://docs.google.com/presentation/d/1S5pTHjthAFfr14-7CiE7ijhXjsUQVaB2UIQ9S2sRnO8/edit?usp=sharing'>
+                                    slides
+                                </a>
+                            </div>
                         </div>
                     </div>
                 </div>
