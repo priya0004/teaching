@@ -15,8 +15,12 @@ function content() {
                     <div id='links'>
                         <h4> Fall 2024 CS 61A Head TA </h4>
                         <p>
-                            &#128204; Disc Attendance <br />
-                            &#128394; Anonymous Feedback <br />
+                        <a className='link' target='_blank' rel='noreferrer' href='https://go.cs61a.org/disc-att'>
+                                &#128204; Disc Attendance
+                            </a> <br />
+                            <a className='link' target='_blank' rel='noreferrer' href='https://forms.gle/FYNWLRqmoF6XZQrN9'>
+                                &#128394; Anonymous Feedback
+                            </a> <br />
                             &#127911; Spotify Playlist
                         </p>
                     </div>
@@ -47,7 +51,7 @@ function content() {
     
                 <div id='content' className='col-lg-7 col-xl-7'>
                     <div className='announcements-container'>
-                        <p id='announce'> &#129395; welcome to cs61a! &#129395; </p>
+                        <p id='announce'> good luck on the midterm! </p>
                     </div>
                     <br />
 
@@ -67,7 +71,7 @@ function content() {
                                 <a className='button' target='_blank' rel='noreferrer noopener' href='https://cs61a.org/disc/disc01/'>
                                     disc01
                                 </a>
-                                <a className='button' target='_blank' rel='noreferrer noopener' href='https://docs.google.com/presentation/d/1vJDAOlOYCwb7Pms3Kk1nLVZDIuy3HSLGk_3FMLNor2Y/edit?usp=sharing'>
+                                <a className='button' target='_blank' rel='noreferrer noopener' href='https://docs.google.com/presentation/d/1S5pTHjthAFfr14-7CiE7ijhXjsUQVaB2UIQ9S2sRnO8/edit?usp=sharing'>
                                     slides
                                 </a>
                             </div>
@@ -81,7 +85,7 @@ function content() {
                                 <a className='button' target='_blank' rel='noreferrer noopener' href='https://cs61a.org/disc/disc02/'>
                                     disc02
                                 </a>
-                                <a className='button' target='_blank' rel='noreferrer noopener' href='https://docs.google.com/presentation/d/1M0qR7j-1gC6r6LDaAmia9hqDJKw2dqOfOl6pRFCjAAc/edit?usp=sharing'>
+                                <a className='button' target='_blank' rel='noreferrer noopener' href='https://docs.google.com/presentation/d/1vJDAOlOYCwb7Pms3Kk1nLVZDIuy3HSLGk_3FMLNor2Y/edit?usp=sharing'>
                                     slides
                                 </a>
                             </div>
