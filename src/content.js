@@ -67,7 +67,21 @@ function content() {
                                 <a className='button' target='_blank' rel='noreferrer noopener' href='https://cs61a.org/disc/disc01/'>
                                     disc01
                                 </a>
-                                <a className='button' target='_blank' rel='noreferrer noopener' href='https://docs.google.com/presentation/d/1S5pTHjthAFfr14-7CiE7ijhXjsUQVaB2UIQ9S2sRnO8/edit?usp=sharing'>
+                                <a className='button' target='_blank' rel='noreferrer noopener' href='https://docs.google.com/presentation/d/1vJDAOlOYCwb7Pms3Kk1nLVZDIuy3HSLGk_3FMLNor2Y/edit?usp=sharing'>
+                                    slides
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div className='disc-container'>
+                        <div className='disc-row'>
+                            <div className='ind-disc-container'>
+                                <p> Week 3: Environment Diagrams, HOFs </p>
+                                <a className='button' target='_blank' rel='noreferrer noopener' href='https://cs61a.org/disc/disc02/'>
+                                    disc02
+                                </a>
+                                <a className='button' target='_blank' rel='noreferrer noopener' href='https://docs.google.com/presentation/d/1M0qR7j-1gC6r6LDaAmia9hqDJKw2dqOfOl6pRFCjAAc/edit?usp=sharing'>
                                     slides
                                 </a>
                             </div>
