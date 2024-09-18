@@ -15,13 +15,15 @@ function content() {
                     <div id='links'>
                         <h4> Fall 2024 CS 61A Head TA </h4>
                         <p>
-                        <a className='link' target='_blank' rel='noreferrer' href='https://go.cs61a.org/disc-att'>
+                            <a className='link' target='_blank' rel='noreferrer' href='https://go.cs61a.org/disc-att'>
                                 &#128204; Disc Attendance
                             </a> <br />
                             <a className='link' target='_blank' rel='noreferrer' href='https://forms.gle/FYNWLRqmoF6XZQrN9'>
                                 &#128394; Anonymous Feedback
                             </a> <br />
-                            &#127911; Spotify Playlist
+                            <a className='link' target='_blank' rel='noreferrer' href='https://open.spotify.com/playlist/4R0bUOnxKpNqTn4Cc47cFp?si=fc242a96af3a4b62'>
+                                &#127911; Spotify Playlist
+                            </a>
                         </p>
                     </div>
         
@@ -36,7 +38,7 @@ function content() {
                     <div id='section'>
                         <h3> Office Hours </h3>
                         <p>
-                            TBD
+                            Tuesday: 5-7 PM @ Warren 101B
                         </p>
                     </div>
 
@@ -51,7 +53,7 @@ function content() {
     
                 <div id='content' className='col-lg-7 col-xl-7'>
                     <div className='announcements-container'>
-                        <p id='announce'> good luck on the midterm! </p>
+                        <p id='announce'> &#129395; congrats on finishing the midterm! &#129395; </p>
                     </div>
                     <br />
 
