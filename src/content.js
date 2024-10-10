@@ -125,6 +125,20 @@ function content() {
                             </div>
                         </div>
                     </div>
+
+                    <div className='disc-container'>
+                        <div className='disc-row'>
+                            <div className='ind-disc-container'>
+                                <p> Week 7: Iterators/Generators </p>
+                                <a className='button' target='_blank' rel='noreferrer noopener' href='https://cs61a.org/disc/disc06/'>
+                                    disc06
+                                </a>
+                                <a className='button' target='_blank' rel='noreferrer noopener' href='https://docs.google.com/presentation/d/12Ewja1KMtYFYhDofBs3qDJ7k5Ny-IZiWxd5UNlq_oO8/edit?usp=sharing'>
+                                    slides
+                                </a>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
     </div>
