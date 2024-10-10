@@ -53,7 +53,7 @@ function content() {
     
                 <div id='content' className='col-lg-7 col-xl-7'>
                     <div className='announcements-container'>
-                        <p id='announce'> &#129395; share your music recs! &#129395; </p>
+                        <p id='announce'> &#x1F3A7; share your music recs! &#x1F3A7; </p>
                     </div>
                     <br />
 
@@ -129,7 +129,7 @@ function content() {
                     <div className='disc-container'>
                         <div className='disc-row'>
                             <div className='ind-disc-container'>
-                                <p> Week 7: Iterators/Generators </p>
+                                <p> Week 7: Iterators, Generators </p>
                                 <a className='button' target='_blank' rel='noreferrer noopener' href='https://cs61a.org/disc/disc06/'>
                                     disc06
                                 </a>
