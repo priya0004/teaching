@@ -148,6 +148,20 @@ function content() {
                             </div>
                         </div>
                     </div>
+
+                    <div className='disc-container'>
+                        <div className='disc-row'>
+                            <div className='ind-disc-container'>
+                                <p> Week 9: Linked Lists, Efficiency </p>
+                                <a className='button' target='_blank' rel='noreferrer noopener' href=''>
+                                    coming soon!
+                                </a>
+                                <a className='button' target='_blank' rel='noreferrer noopener' href='https://docs.google.com/presentation/d/19wj4AqoJ9HDP_huUAItK92gejs0PSKkwfoSkyB8vkt8/edit?usp=sharing'>
+                                    slides
+                                </a>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
     </div>
