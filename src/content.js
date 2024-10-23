@@ -153,8 +153,8 @@ function content() {
                         <div className='disc-row'>
                             <div className='ind-disc-container'>
                                 <p> Week 9: Linked Lists, Efficiency </p>
-                                <a className='button' target='_blank' rel='noreferrer noopener' href=''>
-                                    coming soon!
+                                <a className='button' target='_blank' rel='noreferrer noopener' href='https://cs61a.org/disc/disc08/'>
+                                    disc08
                                 </a>
                                 <a className='button' target='_blank' rel='noreferrer noopener' href='https://docs.google.com/presentation/d/19wj4AqoJ9HDP_huUAItK92gejs0PSKkwfoSkyB8vkt8/edit?usp=sharing'>
                                     slides
