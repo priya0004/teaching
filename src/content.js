@@ -26,7 +26,7 @@ function content() {
                             </a>
                         </p>
                     </div>
-        
+
                     <div id='section'>
                         <h3> Section </h3>
                         <p>
@@ -50,10 +50,10 @@ function content() {
                         </p>
                     </div> */}
                 </div>
-    
+
                 <div id='content' className='col-lg-7 col-xl-7'>
                     <div className='announcements-container'>
-                        <p id='announce'> &#x1F3A7; share your music recs! &#x1F3A7; </p>
+                        <p id='announce'> &#129395; good luck on the midterm! &#129395; </p>
                     </div>
                     <br />
 
@@ -158,6 +158,15 @@ function content() {
                                 </a>
                                 <a className='button' target='_blank' rel='noreferrer noopener' href='https://docs.google.com/presentation/d/19wj4AqoJ9HDP_huUAItK92gejs0PSKkwfoSkyB8vkt8/edit?usp=sharing'>
                                     slides
+                                </a>
+                            </div>
+                            <div className='ind-disc-container'>
+                                <p> Week 10: Midterm 2 </p>
+                                <a className='button' target='_blank' rel='noreferrer noopener' href='https://docs.google.com/presentation/d/1cRt5vxS4pjJ_xgFKnz_yDbopZD6wYqCUg_Rfw0_SP2Y/edit?usp=sharing'>
+                                    content reminders
+                                </a>
+                                <a className='button' target='_blank' rel='noreferrer noopener' href='https://docs.google.com/document/d/1WA0BF9DjN6DpEh-FHuuBKKWaRCUJEN-OTbpWkEjAfHw/edit?usp=sharing'>
+                                    exam advice
                                 </a>
                             </div>
                         </div>
