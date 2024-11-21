@@ -194,6 +194,20 @@ function content() {
                             </div>
                         </div>
                     </div>
+
+                    <div className='disc-container'>
+                        <div className='disc-row'>
+                            <div className='ind-disc-container'>
+                                <p> Week 13: Macros </p>
+                                <a className='button' target='_blank' rel='noreferrer noopener' href='https://cs61a.org/disc/disc11/'>
+                                    disc11
+                                </a>
+                                <a className='button' target='_blank' rel='noreferrer noopener' href='https://docs.google.com/presentation/d/1kGFMqsOIbF60vTWflbuCu_VmSjhcF_CtuXrpfjg6qxA/edit?usp=sharing'>
+                                    slides
+                                </a>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
     </div>
