@@ -53,7 +53,7 @@ function content() {
 
                 <div id='content' className='col-lg-7 col-xl-7'>
                     <div className='announcements-container'>
-                        <p id='announce'> &#129411; happy (almost) break! &#129411; </p>
+                        <p id='announce'> &#129395; good luck on the final! &#129395; </p>
                     </div>
                     <br />
 
@@ -212,7 +212,7 @@ function content() {
                                     no disc
                                 </a>
                                 <a className='button' target='_blank' rel='noreferrer noopener' href=''>
-                                    n/a
+                                    no slides
                                 </a>
                             </div>
                         </div>
