@@ -206,6 +206,29 @@ function content() {
                                     slides
                                 </a>
                             </div>
+                            <div className='ind-disc-container'>
+                                <p> Week 14: Thanksgiving Week </p>
+                                <a className='button' target='_blank' rel='noreferrer noopener' href=''>
+                                    no disc
+                                </a>
+                                <a className='button' target='_blank' rel='noreferrer noopener' href=''>
+                                    n/a
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div className='disc-container'>
+                        <div className='disc-row'>
+                            <div className='ind-disc-container'>
+                                <p> Week 15: SQL </p>
+                                <a className='button' target='_blank' rel='noreferrer noopener' href='https://cs61a.org/disc/disc12/'>
+                                    disc12
+                                </a>
+                                <a className='button' target='_blank' rel='noreferrer noopener' href='https://docs.google.com/presentation/d/1YvWLMvWynm4NYRJ-V0LMk6vb9OaKgsUemNhfoyPsXH4/edit?usp=sharing'>
+                                    slides
+                                </a>
+                            </div>
                         </div>
                     </div>
                 </div>
