@@ -229,6 +229,15 @@ function content() {
                                     slides
                                 </a>
                             </div>
+                            <div className='ind-disc-container'>
+                                <p> Week 16: Final Exam </p>
+                                <a className='button' target='_blank' rel='noreferrer noopener' href='https://docs.google.com/presentation/d/1HhgDdsnxIrIFtFFIgfvNbaacyYKpqdvaVwkLa109BP0/edit?usp=sharing'>
+                                    content reminders
+                                </a>
+                                <a className='button' target='_blank' rel='noreferrer noopener' href='https://docs.google.com/document/d/1WA0BF9DjN6DpEh-FHuuBKKWaRCUJEN-OTbpWkEjAfHw/edit?usp=sharing'>
+                                    exam advice
+                                </a>
+                            </div>
                         </div>
                     </div>
                 </div>
