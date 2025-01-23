@@ -28,16 +28,17 @@ function content() {
                     </div>
 
                     <div id='section'>
-                        <h3> Section </h3>
+                        <h3> Discussion Sections </h3>
                         <p>
-                            TBD
+                            Thursday: 11am-12:30pm @ Wheeler 130 <br />
+                            Thursday: 12:30pm-2pm @ Dwinelle 204, 210, 211, & 233
                         </p>
                     </div>
 
                     <div id='section'>
                         <h3> Office Hours </h3>
                         <p>
-                            Wednesday: 6-8pm @ Warren 101B
+                            Wednesday: 6pm-8pm @ Warren 101B
                         </p>
                     </div>
 
