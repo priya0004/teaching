@@ -24,7 +24,7 @@ function content() {
                             <a className='link' target='_blank' rel='noreferrer' href='https://docs.google.com/forms/d/e/1FAIpQLSdiL3MnoYt7ahtTMzzyQkVibuqJxU8linf7Nkkll7sI1lYFTQ/viewform?usp=sharing'>
                                 &#128394; Anonymous Feedback
                             </a> <br />
-                            <a>
+                            <a className='link' target='_blank' rel='noreferrer' href='https://open.spotify.com/playlist/1vMHrqdaMAc9WszX51Q3HI?si=_t-2xtL_Q6KV8SS1LMaRoA'>
                                 &#127911; Spotify Playlist
                             </a>
                         </p>
@@ -33,6 +33,7 @@ function content() {
                     <div id='section'>
                         <h3> Discussion Sections </h3>
                         <p>
+                            Thursday: 8am-9:30am @ Soda 310 <br />
                             Thursday: 11am-12:30pm @ Wheeler 130 <br />
                             Thursday: 12:30pm-2pm @ Dwinelle 204, 210, 211, & 233
                         </p>
