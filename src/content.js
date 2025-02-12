@@ -58,7 +58,7 @@ function content() {
 
                 <div id='content' className='col-lg-7 col-xl-7'>
                     <div className='announcements-container'>
-                        <p id='announce'> good luck on the midterm! </p>
+                        <p id='announce'> &#129395; congrats on finishing the midterm! &#129395; </p>
                     </div>
                     <br />
 
