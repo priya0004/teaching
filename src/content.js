@@ -46,6 +46,16 @@ function content() {
                         </p>
                     </div>
 
+                    <div id='section'>
+                        <h3> Student Support </h3>
+                        <p>
+                            Wednesday: 4pm-6pm @ Zoom
+                            [<a class="link" target="_blank" rel="noreferrer" href="https://go.cs61a.org/book-student-support">
+                                appointment booking
+                            </a>]
+                        </p>
+                    </div>
+
                     {/* <div id='section'>
                         <h3> Past Websites </h3>
                         <p>
