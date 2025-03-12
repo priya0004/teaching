@@ -143,6 +143,15 @@ function content() {
                                     slides
                                 </a>
                             </div>
+                            <div className='ind-disc-container'>
+                                <p> Week 8: OOP </p>
+                                <a className='button' target='_blank' rel='noreferrer noopener' href='https://cs61a.org/disc/disc07/'>
+                                    disc07
+                                </a>
+                                <a className='button' target='_blank' rel='noreferrer noopener' href='https://docs.google.com/presentation/d/18lHH2RNaEaqw6uRRbeiuvM7ZMlhCyPNsk_JajlP64BI/edit?usp=sharing'>
+                                    slides
+                                </a>
+                            </div>
                         </div>
                     </div>
 
