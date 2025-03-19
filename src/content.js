@@ -163,6 +163,26 @@ function content() {
                                     slides
                                 </a>
                             </div>
+                            <div className='ind-disc-container'>
+                                <p> Week 10: Spring Break </p>
+                                <a className='button' target='_blank' rel='noreferrer noopener' href=''>
+                                    no disc
+                                </a>
+                                <a className='button' target='_blank' rel='noreferrer noopener' href=''>
+                                    no slides
+                                </a>
+                            </div>
+                        </div>
+                        <div className='disc-row'>
+                        <div className='ind-disc-container'>
+                                <p> Week 11: Midterm 2 </p>
+                                <a className='button' target='_blank' rel='noreferrer noopener' href='https://docs.google.com/presentation/d/1l2YB6je2KVNwaQZxYedMYAiz6vbH0HOGgXoi3vMolLg/edit?usp=sharing'>
+                                    content reminders
+                                </a>
+                                <a className='button' target='_blank' rel='noreferrer noopener' href='https://docs.google.com/document/d/1WA0BF9DjN6DpEh-FHuuBKKWaRCUJEN-OTbpWkEjAfHw/edit?usp=sharing'>
+                                    exam advice
+                                </a>
+                            </div>
                         </div>
                     </div>
 
