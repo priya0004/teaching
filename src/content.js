@@ -15,9 +15,6 @@ function content() {
                     <div id='links'>
                         <h4> Spring 2025 CS 61A Head TA </h4>
                         <p>
-                            <a className='link' target='_blank' rel='noreferrer' href='https://docs.google.com/forms/d/e/1FAIpQLSeTL33VPtC6IK_GMsmMmbsiAGxtVWJD9s0JrLzX0QqhaSswkg/viewform?usp=dialog'>
-                                &#11088; Welcome Survey
-                            </a> <br />
                             <a className='link' target='_blank' rel='noreferrer' href='http://go.cs61a.org/discussion-attendance'>
                                 &#128204; Disc Attendance
                             </a> <br />
