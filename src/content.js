@@ -174,7 +174,7 @@ function content() {
                             </div>
                         </div>
                         <div className='disc-row'>
-                        <div className='ind-disc-container'>
+                            <div className='ind-disc-container'>
                                 <p> Week 11: Midterm 2 </p>
                                 <a className='button' target='_blank' rel='noreferrer noopener' href='https://docs.google.com/presentation/d/1l2YB6je2KVNwaQZxYedMYAiz6vbH0HOGgXoi3vMolLg/edit?usp=sharing'>
                                     content reminders
@@ -183,9 +183,17 @@ function content() {
                                     exam advice
                                 </a>
                             </div>
+                            <div className='ind-disc-container'>
+                                <p> Week 12: Scheme, Scheme Lists </p>
+                                <a className='button' target='_blank' rel='noreferrer noopener' href='https://cs61a.org/disc/disc09/'>
+                                    disc09
+                                </a>
+                                <a className='button' target='_blank' rel='noreferrer noopener' href='https://docs.google.com/presentation/d/1CjWkP_uY1bAXxqwgxMHrSXYL2XgTvJAB60qUToup3pc/edit?usp=sharing'>
+                                    slides
+                                </a>
+                            </div>
                         </div>
                     </div>
-
                 </div>
             </div>
     </div>
