@@ -200,6 +200,15 @@ function content() {
                                     slides
                                 </a>
                             </div>
+                            <div className='ind-disc-container'>
+                                <p> Week 14: Macros </p>
+                                <a className='button' target='_blank' rel='noreferrer noopener' href='https://cs61a.org/disc/disc11/'>
+                                    disc11
+                                </a>
+                                <a className='button' target='_blank' rel='noreferrer noopener' href='https://docs.google.com/presentation/d/1RQRFMK6sm2Sq1dARlGd6YwV9QSJnsiDWbrfRL8-Gc7A/edit?usp=sharing'>
+                                    slides
+                                </a>
+                            </div>
                         </div>
                     </div>
                 </div>
