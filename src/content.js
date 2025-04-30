@@ -210,6 +210,17 @@ function content() {
                                 </a>
                             </div>
                         </div>
+                        <div className='disc-row'>
+                            <div className='ind-disc-container'>
+                                <p> Week 15: SQL </p>
+                                <a className='button' target='_blank' rel='noreferrer noopener' href='https://cs61a.org/disc/disc12/'>
+                                    disc12
+                                </a>
+                                <a className='button' target='_blank' rel='noreferrer noopener' href='https://docs.google.com/presentation/d/1A9GjMtUW1ey9h7foUvMUhBWq-t8Ml2m8Hg16bdCmCD8/edit?usp=sharing'>
+                                    slides
+                                </a>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
