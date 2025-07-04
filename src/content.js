@@ -15,15 +15,9 @@ function content() {
                     <div id='links'>
                         <h4> Spring 2025 CS 61A Head TA </h4>
                         <p>
-                            <a className='link' target='_blank' rel='noreferrer' href='http://go.cs61a.org/discussion-attendance'>
-                                &#128204; Disc Attendance
-                            </a> <br />
-                            <a className='link' target='_blank' rel='noreferrer' href='https://docs.google.com/forms/d/e/1FAIpQLSdiL3MnoYt7ahtTMzzyQkVibuqJxU8linf7Nkkll7sI1lYFTQ/viewform?usp=sharing'>
-                                &#128394; Anonymous Feedback
-                            </a> <br />
-                            <a className='link' target='_blank' rel='noreferrer' href='https://open.spotify.com/playlist/1vMHrqdaMAc9WszX51Q3HI?si=_t-2xtL_Q6KV8SS1LMaRoA'>
-                                &#127911; Spotify Playlist
-                            </a>
+                            &#128204; Disc Attendance <br />
+                            &#128394; Anonymous Feedback <br />
+                            &#127911; Spotify Playlist
                         </p>
                     </div>
 
@@ -46,16 +40,14 @@ function content() {
                     <div id='section'>
                         <h3> Student Support </h3>
                         <p>
-                            Wednesday: 4pm-6pm @ Zoom
-                            [<a class="link" target="_blank" rel="noreferrer" href="https://go.cs61a.org/book-student-support">
-                                appointment booking
-                            </a>]
+                            Wednesday: 4pm-6pm @ Zoom [appointment booking]
                         </p>
                     </div>
 
                     {/* <div id='section'>
                         <h3> Past Websites </h3>
                         <p>
+                            Spring 2025
                             Fall 2024
                             Spring 2024
                             Fall 2023
